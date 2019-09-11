@@ -120,7 +120,7 @@ function Home(props) {
   return (
     <div className="container">
       <Head>
-        <title>Where am I now? jos</title>
+        <title>Where am I now? jossafasf</title>
         <meta name="description" content="Find out where you are on this place we call Earth" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content="Where am I now?" />
